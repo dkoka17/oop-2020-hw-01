@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2daea86f-bcfb-41e9-b923-db920cab8045" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="414" />
+  </component>
+  <component name="ProjectId" id="1ZRK3EeZAAoQLBA5EaPPr4VP4zg" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hw1CodeCamp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in hw1CodeCamp">
+    <configuration name="All in hw1CodeCamp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <useClassPathOnly />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharGridTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharGridTest.testCharArea1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharGridTest" />
+      <option name="METHOD_NAME" value="testCharArea1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCodeTest.testRun1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringCodeTest" />
+      <option name="METHOD_NAME" value="testRun1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabooTest.testTaboo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TabooTest" />
+      <option name="METHOD_NAME" value="testTaboo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in hw1CodeCamp" />
+      <item itemvalue="JUnit.TabooTest.testTaboo2" />
+      <item itemvalue="JUnit.StringCodeTest.testRun1" />
+      <item itemvalue="JUnit.CharGridTest.testCharArea1" />
+      <item itemvalue="JUnit.CharGridTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in hw1CodeCamp" />
+        <item itemvalue="JUnit.CharGridTest" />
+        <item itemvalue="JUnit.CharGridTest.testCharArea1" />
+        <item itemvalue="JUnit.StringCodeTest.testRun1" />
+        <item itemvalue="JUnit.TabooTest.testTaboo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2daea86f-bcfb-41e9-b923-db920cab8045" name="Default Changelist" comment="" />
+      <created>1584796265655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584796265655</updated>
+      <workItem from="1584796268356" duration="35000" />
+      <workItem from="1584796455504" duration="7764000" />
+      <workItem from="1584818227818" duration="1544000" />
+      <workItem from="1584822880344" duration="1267000" />
+      <workItem from="1584824170474" duration="6080000" />
+      <workItem from="1584931315460" duration="4901000" />
+      <workItem from="1584968006726" duration="6790000" />
+      <workItem from="1585072296669" duration="1303000" />
+      <workItem from="1585277515856" duration="6733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Notifications" timestamp="1584800279771">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Notifications/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584800279771" />
+    <state x="2952" y="182" key="#Project_Structure" timestamp="1584797050382">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2952" y="182" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584797050382" />
+    <state x="518" y="63" width="1002" height="622" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585074982799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2568" y="79" width="1092" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584824143990" />
+    <state x="518" y="63" width="1002" height="622" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585074982799" />
+    <state x="2843" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584819154181">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2843" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584819154181" />
+    <state x="2728" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584796505095">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2728" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584796505095" />
+    <state x="736" y="231" width="756" height="593" key="#xdebugger.evaluate" timestamp="1585299074411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="203" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584981457827" />
+    <state x="2829" y="253" width="925" height="594" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584981982673" />
+    <state x="736" y="231" width="756" height="593" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1585299074411" />
+    <state x="3140" y="278" key="FileChooserDialogImpl" timestamp="1584981642107">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3140" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584981642107" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979663159" />
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.1.center" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979663159" />
+    <state width="1493" height="192" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.1.left" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979663158" />
+    <state width="1493" height="192" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="1493" height="192" key="GridCell.Tab.1.right" timestamp="1585299168207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979663159" />
+    <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state x="493" y="0" key="SettingsEditor" timestamp="1585074959509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2536" y="109" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584800216798" />
+    <state x="493" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585074959509" />
+    <state x="69" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585277516900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2006" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584822881604" />
+    <state x="69" y="190" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585277516900" />
+    <state x="3024" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584796547345">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3024" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584796547345" />
+    <state x="2363" y="168" key="new project wizard" timestamp="1584981550384">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2363" y="168" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584981550384" />
+    <state x="3016" y="244" key="run.anything.popup" timestamp="1584974864650">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3016" y="244" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584974864650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StringCodeTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CharGrid.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest.ic" NAME="CharGridTest Coverage Results" MODIFIED="1585074678040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TabooTest_testTaboo1.ic" NAME="TabooTest.testTaboo1 Coverage Results" MODIFIED="1584979654643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$StringCodeTest.ic" NAME="StringCodeTest Coverage Results" MODIFIED="1584801336350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$StringCodeTest_testRun1.ic" NAME="StringCodeTest.testRun1 Coverage Results" MODIFIED="1585298250907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest_testCharArea1.ic" NAME="CharGridTest.testCharArea1 Coverage Results" MODIFIED="1584817283328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest_testcountPlus6.ic" NAME="CharGridTest.testcountPlus6 Coverage Results" MODIFIED="1584828646966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest_testcountPlus5.ic" NAME="CharGridTest.testcountPlus5 Coverage Results" MODIFIED="1584828740486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TetrisGridTest.ic" NAME="TetrisGridTest Coverage Results" MODIFIED="1584932614461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TetrisGridTest_testClear7.ic" NAME="TetrisGridTest.testClear7 Coverage Results" MODIFIED="1584932498799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TetrisGridTest_testClear6.ic" NAME="TetrisGridTest.testClear6 Coverage Results" MODIFIED="1584932368737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$AppearancesTest_testSameCount4.ic" NAME="AppearancesTest.testSameCount4 Coverage Results" MODIFIED="1584968495531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TabooTest.ic" NAME="TabooTest Coverage Results" MODIFIED="1585296979848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TetrisGridTest_testClear1.ic" NAME="TetrisGridTest.testClear1 Coverage Results" MODIFIED="1584863715888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$AppearancesTest_testSameCount5.ic" NAME="AppearancesTest.testSameCount5 Coverage Results" MODIFIED="1584968821069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$AppearancesTest.ic" NAME="AppearancesTest Coverage Results" MODIFIED="1585278555721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TabooTest_testTaboo2.ic" NAME="TabooTest.testTaboo2 Coverage Results" MODIFIED="1585297652567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$PointTest.ic" NAME="PointTest Coverage Results" MODIFIED="1584801561601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$StringCodeTest_testBlowup1.ic" NAME="StringCodeTest.testBlowup1 Coverage Results" MODIFIED="1584800914007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest_countPlus.ic" NAME="CharGridTest.countPlus Coverage Results" MODIFIED="1584818756958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$All_in_hw1CodeCamp.ic" NAME="All in hw1CodeCamp Coverage Results" MODIFIED="1585299142156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
