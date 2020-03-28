@@ -10,7 +10,18 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="414" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\datok\Desktop\oop\hw1CodeCamp\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZRK3EeZAAoQLBA5EaPPr4VP4zg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
@@ -28,14 +39,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hw1CodeCamp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="coverage" />
@@ -129,6 +140,8 @@
       <workItem from="1584968006726" duration="6790000" />
       <workItem from="1585072296669" duration="1303000" />
       <workItem from="1585277515856" duration="6733000" />
+      <workItem from="1585299171886" duration="91000" />
+      <workItem from="1585302780166" duration="416000" />
     </task>
     <servers />
   </component>
@@ -167,26 +180,26 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3140" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584981642107" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1585299168207">
+    <state width="681" height="264" key="GridCell.Tab.0.bottom" timestamp="1585303196164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="938" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1585299168207">
+    <state width="681" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585303196164" />
+    <state width="681" height="264" key="GridCell.Tab.0.center" timestamp="1585303196164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="938" height="348" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1585299168207">
+    <state width="681" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585303196164" />
+    <state width="681" height="264" key="GridCell.Tab.0.left" timestamp="1585303196164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="938" height="348" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1585299168207">
+    <state width="681" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585303196164" />
+    <state width="681" height="264" key="GridCell.Tab.0.right" timestamp="1585303196164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="938" height="348" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979662991" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
+    <state width="681" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585303196164" />
     <state width="1493" height="192" key="GridCell.Tab.1.bottom" timestamp="1585299168207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -207,16 +220,16 @@
     </state>
     <state width="938" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584979663159" />
     <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585299168207" />
-    <state x="493" y="0" key="SettingsEditor" timestamp="1585074959509">
+    <state x="493" y="0" key="SettingsEditor" timestamp="1585303041860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2536" y="109" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584800216798" />
-    <state x="493" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585074959509" />
-    <state x="69" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585277516900">
+    <state x="493" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585303041860" />
+    <state x="69" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585410877370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2006" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584822881604" />
-    <state x="69" y="190" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585277516900" />
+    <state x="69" y="190" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585410877370" />
     <state x="3024" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584796547345">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -266,6 +279,6 @@
     <SUITE FILE_PATH="coverage/hw1CodeCamp$PointTest.ic" NAME="PointTest Coverage Results" MODIFIED="1584801561601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/hw1CodeCamp$StringCodeTest_testBlowup1.ic" NAME="StringCodeTest.testBlowup1 Coverage Results" MODIFIED="1584800914007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest_countPlus.ic" NAME="CharGridTest.countPlus Coverage Results" MODIFIED="1584818756958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/hw1CodeCamp$All_in_hw1CodeCamp.ic" NAME="All in hw1CodeCamp Coverage Results" MODIFIED="1585299142156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$All_in_hw1CodeCamp.ic" NAME="All in hw1CodeCamp Coverage Results" MODIFIED="1585302783472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

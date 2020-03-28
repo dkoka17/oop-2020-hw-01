@@ -36,6 +36,7 @@ public class StringCodeTest extends TestCase {
 		// string with only digits
 		assertEquals("", StringCode.blowup("2"));
 		assertEquals("33", StringCode.blowup("23"));
+		assertEquals("33aaaaa", StringCode.blowup("23aa"));
 	}
 	
 	
@@ -57,10 +58,12 @@ public class StringCodeTest extends TestCase {
 	public void testRun3() {
 		// "evolve" technique -- make a series of test cases
 		// where each is change from the one above.
+		assertEquals(3, StringCode.maxRun("111"));
 		assertEquals(1, StringCode.maxRun("123"));
 		assertEquals(2, StringCode.maxRun("1223"));
 		assertEquals(2, StringCode.maxRun("112233"));
 		assertEquals(3, StringCode.maxRun("1112233"));
+		assertEquals(3, StringCode.maxRun("111222333"));
 	}
 
 	//
@@ -79,10 +82,16 @@ public class StringCodeTest extends TestCase {
 		assertEquals(true, StringCode.stringIntersect("qwerabc","abcd", 3));
 		// at start
 		assertEquals(true, StringCode.stringIntersect("abcd", "abcqwer", 3));
-		assertEquals(true, StringCode.stringIntersect("abcqwer","abcd", 3));
+		assertEquals(true, StringCode.stringIntersect("abcdqwer","abcd", 4));
 
 		// two correct answers
 		assertEquals(true, StringCode.stringIntersect("abcd", "abcqwcd", 2));
+		assertEquals(true, StringCode.stringIntersect("abcd", "abcqwcd", 1));
+		assertEquals(false, StringCode.stringIntersect("abcd", "abcqwcd", 4));
+
+		assertEquals(true, StringCode.stringIntersect("abcde", "abcde", 5));
+		assertEquals(true, StringCode.stringIntersect("1234", "1234", 4));
+		assertEquals(false, StringCode.stringIntersect("1234", "4321", 2));
 	}
 	
 }

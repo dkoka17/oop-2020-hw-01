@@ -94,6 +94,19 @@ public class CharGridTest extends TestCase {
 		assertEquals(1, cg.charArea('c'));
 
 		grid = new char[][] {
+				{'c', ' ', ' '},
+				{' ', ' ', ' '},
+				{' ', ' ', 'a'}
+		};
+
+		cg = new CharGrid(grid);
+
+		assertEquals(1, cg.charArea('a'));
+		assertEquals(0, cg.charArea('b'));
+		assertEquals(1, cg.charArea('c'));
+		assertEquals(1, cg.countPlus());
+
+		grid = new char[][] {
 				{'c', 'a', ' '},
 				{'a', ' ', 'b'},
 				{' ', 'c', 'a'}
@@ -247,6 +260,20 @@ public class CharGridTest extends TestCase {
 		};
 		cg = new CharGrid(grid);
 		assertEquals(1, cg.countPlus());
+
+		grid = new char[][] {
+				{'x',' ', 'x', 'x','x','x','x','x','x'},
+				{' ',' ', ' ', 'x','x','x','x','x','x'},
+				{'x',' ', 'x', 'x','x','x','x','x','x'},
+				{'x','x', 'x', 'x','x','x','x','x','x'},
+				{'x','x', 'x', 'x','x','x','x','x','x'},
+				{'x','x', 'x', 'x','x','x','x','x','x'},
+				{'x','x', 'x', 'x','x','x','x',' ','x'},
+				{'x','x', 'x', 'x','x','x',' ',' ',' '},
+				{'x','x', 'x', 'x','x','x','x',' ','x'},
+		};
+		cg = new CharGrid(grid);
+		assertEquals(3, cg.countPlus());
 
 	}
 }
