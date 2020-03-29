@@ -20,14 +20,16 @@ public class Taboo<T> {
 		hm = new HashMap<>();
 		setHash = new HashSet<Integer>();
 		for(int i=0; i<rules.size()-1; i++) {
-			if(rules.get(i)!=null? setHash.contains(rules.get(i).hashCode())&&hm.containsKey(rules.get(i)) : hm.containsKey(rules.get(i))) {
-					hm.get(rules.get(i)).add(rules.get(i+1));
-				}else{
+			if(rules.get(i)!=rules.get(i+1)){
+				if (rules.get(i) != null ? setHash.contains(rules.get(i).hashCode()) && hm.containsKey(rules.get(i)) : hm.containsKey(rules.get(i))) {
+					hm.get(rules.get(i)).add(rules.get(i + 1));
+				} else {
 					Set<T> st = new HashSet<T>();
-					st.add(rules.get(i+1));
+					st.add(rules.get(i + 1));
 					hm.put(rules.get(i), st);
-					if(rules.get(i)!=null)setHash.add(rules.get(i).hashCode());
+					if (rules.get(i) != null) setHash.add(rules.get(i).hashCode());
 				}
+			}
 		}
 	}
 	

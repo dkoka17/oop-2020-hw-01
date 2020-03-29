@@ -46,10 +46,10 @@ public class AppearancesTest extends TestCase {
 
 	public void testSameCount4() {
 		// basic List<String> cases
-		List<String> a =  Arrays.asList("abbccc","aab","aab","aba");
+		List<String> a =  Arrays.asList("ab","abbccc","aab","aab","aba");
 		List<String> b = Arrays.asList("cccbba","aab","aab","abbccc");
 		assertEquals(2, Appearances.sameCount(a, b));
-		assertEquals(3, Appearances.sameCount(a, a));
+		assertEquals(4, Appearances.sameCount(a, a));
 		assertEquals(3, Appearances.sameCount(b, b));
 	}
 
@@ -62,6 +62,7 @@ public class AppearancesTest extends TestCase {
 		List<dog> a =  Arrays.asList(dog1,dog2);
 		List<dog> b = Arrays.asList(dog1,dog1);
 		assertEquals(0, Appearances.sameCount(a, b));
+		assertEquals(0, Appearances.sameCount(b, a));
 		a =  Arrays.asList(dog1,dog1);
 		b = Arrays.asList(dog1,dog1);
 		assertEquals(1, Appearances.sameCount(a, b));
@@ -81,6 +82,10 @@ public class AppearancesTest extends TestCase {
 			this.boy = boy;
 			this.children = children;
 			this.type = type;
+		}
+		@Override
+		public int hashCode() {
+			return 1;
 		}
 	}
 }

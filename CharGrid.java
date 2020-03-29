@@ -46,7 +46,7 @@ public class CharGrid {
 		int result =0;
 		for(int i=1; i<grid.length; i++) {
 			for(int k=1; k<grid[0].length; k++) {
-				if (Character.toLowerCase(grid[i][k])>=' '||(Character.toLowerCase(grid[i][k])>='a'&&Character.toLowerCase(grid[i][k])<='z')){
+				if (Character.toLowerCase(grid[i][k])==' '||(Character.toLowerCase(grid[i][k])>='a'&&Character.toLowerCase(grid[i][k])<='z')){
 					if(isIt(i,k))result++;
 				}
 			}

@@ -107,6 +107,19 @@ public class CharGridTest extends TestCase {
 		assertEquals(1, cg.countPlus());
 
 		grid = new char[][] {
+				{'c', '@', ' '},
+				{' ', '*', '{'},
+				{' ', '@', 'a'}
+		};
+
+		cg = new CharGrid(grid);
+
+		assertEquals(1, cg.charArea('a'));
+		assertEquals(0, cg.charArea('b'));
+		assertEquals(1, cg.charArea('c'));
+		assertEquals(0, cg.countPlus());
+
+		grid = new char[][] {
 				{'c', 'a', ' '},
 				{'a', ' ', 'b'},
 				{' ', 'c', 'a'}
