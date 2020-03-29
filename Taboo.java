@@ -10,19 +10,23 @@ import java.util.*;
 
 public class Taboo<T> {
 	private HashMap<T,Set<T>> hm;
+	private Set<Integer> setHash;
+
 	/**
 	 * Constructs a new Taboo using the given rules (see handout.)
 	 * @param rules rules for new Taboo
 	 */
 	public Taboo(List<T> rules) {
 		hm = new HashMap<>();
+		setHash = new HashSet<Integer>();
 		for(int i=0; i<rules.size()-1; i++) {
-				if(hm.containsKey(rules.get(i))) {
+			if(rules.get(i)!=null? setHash.contains(rules.get(i).hashCode())&&hm.containsKey(rules.get(i)) : hm.containsKey(rules.get(i))) {
 					hm.get(rules.get(i)).add(rules.get(i+1));
 				}else{
 					Set<T> st = new HashSet<T>();
 					st.add(rules.get(i+1));
 					hm.put(rules.get(i), st);
+					if(rules.get(i)!=null)setHash.add(rules.get(i).hashCode());
 				}
 		}
 	}
@@ -34,7 +38,7 @@ public class Taboo<T> {
 	 * @return elements which should not follow the given element
 	 */
 	public Set<T> noFollow(T elem) {
-		if(hm.containsKey(elem)) {
+		if(elem!=null? setHash.contains(elem.hashCode())&&hm.containsKey(elem) : hm.containsKey(elem)) {
 			return hm.get(elem);
 		}else {
 			Set<T> st = new HashSet<T>();
